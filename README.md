@@ -6,6 +6,9 @@
 - Every Code is manually tested in Leetcode.
 - If you find any error in solution then feel free to Contribute :)
 
+## Solutions:
+- Arrays 👉 [Click Here](https://github.com/VishwaGauravIn/Java-DSA-Solutions/blob/main/05-Arrays-Solutions.md) 👈
+
 ### 🚧 More Solutions Will be added soon . . .
 
 ![](https://komarev.com/ghpvc/?username=VishwaGauravIn&color=yellow&label=Views)
